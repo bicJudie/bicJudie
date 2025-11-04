@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bicJudie
+- 👋 Hi, I’m Baraka Chongera 
 - 👀 I’m interested in coding and hardware engineering 
-- 🌱 I’m currently learning Arduino 
+- 🌱 I’m currently learning Embedded Systems and Electronics
 - 💞️ I’m looking to collaborate on all Arduino projects and discussions
 - 📫 @chongerabaraka1@gmail.com
   WhatsApp (+255 (0) 767157211
